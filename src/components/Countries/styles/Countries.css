@@ -1,0 +1,13 @@
+@import "../../../../node_modules/antd/dist/antd.css";
+
+.tableContainer {
+    padding: 30px;
+}
+
+.loaderContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
